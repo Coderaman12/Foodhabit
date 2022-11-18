@@ -77,8 +77,8 @@ html,body{
 }
 #p1left{
     position: relative;
-    width: 50%;
-    height: 100%;
+    width: 90vh;
+    height: 100vh;
     /* background-color: #000; */
     text-align: left;
     margin:5vw 6vw;
@@ -178,8 +178,8 @@ html,body{
 /* here we are start the mid postion right work */
 
 #p1right{
-    width: 50%;
-    height: 100%;
+    width: 50vh;
+    height: 100vh;
     position: relative;
     /* background-color: #000; */
 }
